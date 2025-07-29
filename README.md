@@ -33,3 +33,5 @@ bun run build
 ```sh
 bun lint
 ```
+
+# storefront-demo
